@@ -6,7 +6,7 @@
 ### As today
 
 - :mag: Looking for projects !
-- :pencil:Learning React & MongoDB.
+- :pencil:Learning React.
 - :bulb: Contributing to <a href="https://nextcitizens.github.io/ncs_documentation/">NextCitizens</a> (open source project).
 - :construction: Working on <a href="https://github.com/project-solar-system-es">Solar Panel Project</a>.
 
