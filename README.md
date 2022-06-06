@@ -15,7 +15,7 @@
 - :fire: I'm currently using `.js` `.py` `.lua` `react` `mysql`
 - :hammer: I have worked on [storylife.fr](https://storylife.fr/), [portfolio.com](https://martinportfolio.fr/), [panthebot.fr](https://pantherbot.martinportfolio.fr/),  ect. 
 - :eyes: I enjoy doing sports & reading news & of course learning new things ! 
-- :mailbox: How to reach me **ϻartin#0024** on discord.
+- :mailbox: How to reach me **ϻartin#4322** on discord.
     
 ### Languages
 
@@ -29,3 +29,4 @@
 <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=martin0024&theme=tokyonight&layout=default&show_icons=true" />
 
 ![Martin GitHub stats](https://github-readme-stats.vercel.app/api?username=martin0024&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=martin0024&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
