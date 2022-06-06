@@ -26,7 +26,6 @@
 ### Statistics
 
 
-<img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=martin0024&theme=tokyonight&layout=default&show_icons=true" />
+<img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=martin0024&theme=dark&layout=default&show_icons=true&hide_border=true&include_all_commits=false&count_private=true" />
 
-![Martin GitHub stats](https://github-readme-stats.vercel.app/api?username=martin0024&show_icons=true&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api?username=martin0024&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
