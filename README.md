@@ -19,7 +19,7 @@
     
 ### Languages
 
-- French & Italien (native)
+- French & Italian (native)
 - English & Spanish (fluent)
 
 
