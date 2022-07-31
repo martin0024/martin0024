@@ -28,7 +28,7 @@
  ![Contribution](https://activity-graph.herokuapp.com/graph?username=martin0024&theme=react-dark&hide_border=true&area=true)
 <div align="center">
   <a href="https://github.com/Kamionn">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin0024&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martin0024&theme=dark&hide_border=true&include_all_commits=false&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin0024&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=martin0024&theme=dark&hide_border=true&include_all_commits=false&count_private=true"/>
   </a>
 </div>
