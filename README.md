@@ -25,6 +25,10 @@
 
 ### Statistics
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=martin0024&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) <br/>
-![](https://github-readme-stats.vercel.app/api?username=martin0024&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+ ![Contribution](https://activity-graph.herokuapp.com/graph?username=martin0024&theme=react-dark&hide_border=true&area=true)
+<div align="center">
+  <a href="https://github.com/Kamionn">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin0024&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martin0024&theme=dark&hide_border=true&include_all_commits=false&count_private=true"/>
+  </a>
+</div>
