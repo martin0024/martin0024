@@ -7,15 +7,16 @@
 
 - :mag: Looking for projects !
 - :pencil:Learning React.
-- :bulb: Contributing to <a href="https://nextcitizens.github.io/ncs_documentation/">NextCitizens</a> (open source project).
+- :bulb: Contributing to <a href="https://nae.events/">NaE Events</a> (evenemential project).
 - :construction: Working on <a href="https://github.com/project-solar-system-es">Solar Panel Project</a>.
+- :rocket: Launching **SkiMaps**
 
 ### About
 
-- :fire: I'm currently using `.js` `.py` `.lua` `react` `mysql`
-- :hammer: I have worked on [storylife.fr](https://storylife.fr/), [portfolio.com](https://martinportfolio.fr/), [panthebot.fr](https://pantherbot.martinportfolio.fr/),  ect. 
-- :eyes: I enjoy doing sports & reading news & of course learning new things ! 
-- :mailbox: How to reach me **ϻartin#4322** on discord.
+- :fire: I'm currently using `.js` `.py` `lua` `react` `mysql`
+- :hammer: I have worked on [storylife.fr](https://storylife.fr/), [portfolio.com](https://martinportfolio.fr/), [panthebot.fr](https://pantherbot.martinportfolio.fr/), [NextCitizens](https://nextcitizens.github.io/ncs_documentation/)  ect. 
+- :eyes: I enjoy doing sports & reading news ! 
+- :mailbox: How to reach me **ϻartin#4622** on discord.
     
 ### Languages
 
