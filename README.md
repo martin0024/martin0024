@@ -6,7 +6,7 @@
 ### As today
 
 - :mag: Looking for projects !
-- :pencil: Making React projects..
+- :pencil: Making React projects.
 - :bulb: Contributing to <a href="https://nae.events/">NaE Events</a> (evenemential project).
 - :construction: Working on <a href="https://github.com/project-solar-system-es">Solar Panel Project</a>.
 - :rocket: Launching **SkiMaps**
