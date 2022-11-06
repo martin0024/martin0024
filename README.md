@@ -6,7 +6,7 @@
 ### As today
 
 - :mag: Looking for projects !
-- :pencil:Learning React.
+- :pencil: Making React projects..
 - :bulb: Contributing to <a href="https://nae.events/">NaE Events</a> (evenemential project).
 - :construction: Working on <a href="https://github.com/project-solar-system-es">Solar Panel Project</a>.
 - :rocket: Launching **SkiMaps**
@@ -25,6 +25,8 @@
 
 
 ### Statistics
+
+<em> Ps: This **not** represent my current skills in any language. <em/>
 
  ![Contribution](https://activity-graph.herokuapp.com/graph?username=martin0024&theme=react-dark&hide_border=true&area=true)
 <div align="center">
