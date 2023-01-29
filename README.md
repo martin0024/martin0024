@@ -14,7 +14,7 @@
 ### About
 
 - :fire: I'm currently using `.js` `.py` `lua` `react` `mysql`
-- :hammer: I have worked on [storylife.fr](https://storylife.fr/), [portfolio.com](https://martinportfolio.fr/), [panthebot.fr](https://pantherbot.martinportfolio.fr/), [NextCitizens](https://nextcitizens.github.io/ncs_documentation/)  ect. 
+- :hammer: I have worked on [StoryLife](https://storylife.fr/), [Personnal Projects](https://martinportfolio.fr/), [PantherBot](https://pantherbot.martinportfolio.fr/), [NextCitizens](https://nextcitizens.github.io/ncs_documentation/)  ect. 
 - :eyes: I enjoy doing sports & reading news ! 
 - :mailbox: How to reach me **ϻartin#4622** on discord.
     
@@ -26,11 +26,7 @@
 
 ### Statistics
 
-<em> Ps: This **not** represent my current skills in any language. <em/>
 
-<div align="center">
-  <a href="https://github.com/Kamionn">
-    <img height="150em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=martin0024&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=martin0024&theme=dark&hide_border=true&include_all_commits=false&count_private=true"/>
-  </a>
+<div>
+    <img height="" src="https://github-readme-stats.vercel.app/api?username=martin0024&theme=dark&hide_border=true&include_all_commits=false&count_private=true"/>
 </div>
